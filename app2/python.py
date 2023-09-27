@@ -19,6 +19,9 @@ def solution(S):
     
     return count
 
+
 print(solution("abbaa"))  
-print(solution("aaaa"))  
+print(solution("aaaa")) 
 print(solution("abab")) 
+print(solution("baba"))
+print(solution("abcdefabcdef"))

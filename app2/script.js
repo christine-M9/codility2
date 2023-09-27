@@ -26,3 +26,5 @@ function solution(S) {
 console.log(solution("abbaa")); 
 console.log(solution("aaaa")); 
 console.log(solution("abab")); 
+console.log(solution("abcdefabcdef"))
+console.log(solution("baba"))
